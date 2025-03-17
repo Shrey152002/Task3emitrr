@@ -11,7 +11,7 @@ The SOAP Note Generator is a Flask-based web application that processes medical 
   - **Plan**: Treatment plans, prescriptions, and follow-ups
 - Uses SpaCy for text processing and Named Entity Recognition (NER)
 - Flask-based web application with API endpoint for SOAP note generation
-- Responsive UI with AJAX-based interaction
+
 ![SOAP Interface](https://github.com/Shrey152002/Task3emitrr/blob/main/Screenshot%20(17).png)
 ## Installation
 ### Prerequisites
