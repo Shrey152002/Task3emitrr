@@ -84,8 +84,7 @@ The application provides a `/generate` API endpoint for programmatic access.
 ## License
 This project is licensed under the MIT License.
 
-## Contributors
-Developed by [Your Name]. Contributions and improvements are welcome!
+
 
 ## Future Enhancements
 - Improve NLP model for more accurate classifications.
